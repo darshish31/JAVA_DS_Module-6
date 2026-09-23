@@ -1,5 +1,5 @@
 # EX3 Write a program to count the number of digits in an integer.
-## DATE: 31.07.2026
+## DATE: 22/07/2026
 ## AIM:
 To write a Java program to implement Tower of Hanoi
 
